@@ -3,7 +3,7 @@
 ![javascript_30](Images/wesbos.png)
 
 
-## List of Exercises
+## JS Exercises
 
 1. [JavaScript Drum Kit](https://masitamohamad.github.io/Javascript30/01-JavaScript_Drum_Kit/index.html)
 2. [CSS + JS Clock]
