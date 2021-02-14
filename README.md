@@ -1,11 +1,12 @@
 # [Javascript30 Challenge](https://javascript30.com/)
 
-![javascript_30](Images/JS30.PNG)
+![javascript_30](Images/wesbos.png)
+
 
 ## List of Exercises
 
 1. [JavaScript Drum Kit](https://masitamohamad.github.io/Javascript30/01-JavaScript_Drum_Kit/index.html)
-2. CSS + JS Clock
+2. [CSS + JS Clock]
 3. Playing with CSS Variables and JS
 4. Array Cardio Day 1
 5. Flex Panels Image Gallery
