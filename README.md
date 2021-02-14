@@ -1,6 +1,6 @@
 # [Javascript30 Challenge](https://javascript30.com/)
 
-![javascript_30](Images/wesbos.png)
+![javascript_30](image/wesbos.png)
 
 
 ## JS Exercises
